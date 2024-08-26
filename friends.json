@@ -1,0 +1,17 @@
+[
+  {
+      "name": "Regina",
+      "age": "21",
+      "picture": "https://raw.githubusercontent.com/danielasphone/react-native-project-images/main/AMIGA1.jfif"
+  },
+  {
+      "name": "Majo",
+      "age": "23",
+      "picture": "https://raw.githubusercontent.com/danielasphone/react-native-project-images/main/AMIGA2.jfif"
+  },
+  {
+      "name": "Maria",
+      "age": "23",
+      "picture": "https://raw.githubusercontent.com/danielasphone/react-native-project-images/main/AMIGA3.jfif"
+  }
+]

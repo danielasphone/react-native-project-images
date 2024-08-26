@@ -1,0 +1,14 @@
+[
+  {
+      "name": "Autocuidado",
+      "picture": "https://raw.githubusercontent.com/danielasphone/react-native-project-images/main/HOBBIE1.jfif"
+  },
+  {
+      "name": "Ejercicio",
+      "picture": "https://raw.githubusercontent.com/danielasphone/react-native-project-images/main/HOBBIE2.jfif"
+  },
+  {
+      "name": "Pasar tiempo con mi Novio",
+      "picture": "https://raw.githubusercontent.com/danielasphone/react-native-project-images/main/HOBBIE3.jfif"
+  }
+]
